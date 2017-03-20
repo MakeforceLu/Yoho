@@ -1,0 +1,5 @@
+1.先全局安装插件包 npm i；
+2.在安装react-addons-pure-render-mixin；
+3.执行webpack；
+4.npm run build；
+5.启动mock数据 json-server mock.js -p 9000。
